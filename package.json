@@ -1,0 +1,23 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "chrome": "cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaszloQ/cypress-demo.git"
+  },
+  "author": "Laszlo Kiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LaszloQ/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/LaszloQ/cypress-demo#readme",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
